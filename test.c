@@ -2,6 +2,5 @@
 int main()
 {
     printf("hey");
-    /* code */
     return 0;
 }
